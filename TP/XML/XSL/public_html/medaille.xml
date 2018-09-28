@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE tableau SYSTEM "medaille.dtd"> 
+
+<tableau>
+    <ligne>
+        <pays nomDePays ='USA'></pays>
+        <medaille type='or'>46</medaille>
+        <medaille type='argent'>37</medaille>
+        <medaille type='bronze'>38</medaille>
+    </ligne>
+    
+    <ligne>
+        <pays nomDePays ='Grande-Bretagne'></pays>
+        <medaille type='or'>27</medaille>
+        <medaille type='argent'>23</medaille>
+        <medaille type='bronze'>17</medaille>
+    </ligne>
+    
+    <ligne>
+        <pays nomDePays ='Chine'></pays>
+        <medaille type='or'>26</medaille>
+        <medaille type='argent'>18</medaille>
+        <medaille type='bronze'>26</medaille>
+    </ligne>
+    
+    <ligne>
+        <pays nomDePays ='Russie'></pays>
+        <medaille type='or'>19</medaille>
+        <medaille type='argent'>18</medaille>
+        <medaille type='bronze'>19</medaille>
+    </ligne>
+    
+    <ligne>
+        <pays nomDePays ='Allemagne'></pays>
+        <medaille type='or'>17</medaille>
+        <medaille type='argent'>10</medaille>
+        <medaille type='bronze'>15</medaille>
+    </ligne>
+    
+    <ligne>
+        <pays nomDePays ='Japon'></pays>
+        <medaille type='or'>12</medaille>
+        <medaille type='argent'>8</medaille>
+        <medaille type='bronze'>21</medaille>
+    </ligne>
+    
+    <ligne>
+        <pays nomDePays ='France'></pays>
+        <medaille type='or'>10</medaille>
+        <medaille type='argent'>18</medaille>
+        <medaille type='bronze'>14</medaille>
+    </ligne>
+    
+    <ligne>
+        <pays nomDePays ='Corée-du-sud'></pays>
+        <medaille type='or'>9</medaille>
+        <medaille type='argent'>3</medaille>
+        <medaille type='bronze'>9</medaille>
+    </ligne>
+    
+    <ligne>
+        <pays nomDePays ='Italie'></pays>
+        <medaille type='or'>8</medaille>
+        <medaille type='argent'>12</medaille>
+        <medaille type='bronze'>8</medaille>
+    </ligne>
+    
+    <ligne>
+        <pays nomDePays ='Australie'></pays>
+        <medaille type='or'>8</medaille>
+        <medaille type='argent'>11</medaille>
+        <medaille type='bronze'>10</medaille>
+    </ligne>
+</tableau>

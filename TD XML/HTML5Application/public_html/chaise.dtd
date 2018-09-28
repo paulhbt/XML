@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<!ELEMENT chaise (matiere?,couleur?,poidssupport?,roulette?)>
+<!ELEMENT matiere (#PCDATA)>
+<!ELEMENT couleur (#PCDATA)>
+<!ELEMENT poidssupport (#PCDATA)>
+<!ELEMENT roulette (#PCDATA)>
+
+<!-- la balise chaise possède un attribut nbpieds obligatoire -->
+<!ATTLIST chaise nbpieds CDATA #REQUIRED>
+<!-- Chaque attribut doit être noté -->
